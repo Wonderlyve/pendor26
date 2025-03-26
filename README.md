@@ -1,1 +1,1 @@
-# pendor26
+# pendor_app
